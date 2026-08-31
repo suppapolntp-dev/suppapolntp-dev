@@ -56,7 +56,7 @@ It's about understanding **why** we're building it, who we're building it for, a
 
 `Flutter` `Dart` `Hive`
 
-🔗 [Source Code](suppapolntp-dev/FlowTrack)
+🔗 [Source Code](FlowTrack)
 
 ---
 
